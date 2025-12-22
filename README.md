@@ -40,19 +40,4 @@ That's it – start adding your tasks! 😄
 
 No frameworks or libraries – pure and lightweight!
 
-## Future Improvements 💡
-
-- Press Enter key to add tasks
-- Edit existing tasks
-- Add a "Clear All" button
-- Categories or due dates
-
-## License 📄
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-Made with ❤️ by [Your Name / GitHub Username]  
-
-⭐ If you like this project, give it a star – it means a lot! 🚀
+ 
