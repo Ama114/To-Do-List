@@ -8,7 +8,8 @@ A simple and beautiful **To-Do List** web application built with pure HTML, CSS,
 
 ## Screenshot 🖼️
 
-<grok-card data-id="f5d729" data-type="image_card"></grok-card>
+<img width="1911" height="909" alt="image" src="https://github.com/user-attachments/assets/68c9f472-33c3-4da5-8b86-b06bd59fa44f" />
+
 
 
 ## Features ✨
